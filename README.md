@@ -33,4 +33,11 @@ Valide os requisitos com as partes interessadas.
 ![clicando aqui](https://github.com/MatheusCarvalho2008/aulaMarkdown/assets/164503774/2675285b-9277-405b-8d9d-7b9e3e4d732f)
 ![clicando aqui](https://github.com/MatheusCarvalho2008/aulaMarkdown/assets/164503774/85311a2d-857f-47e0-89ee-389468abbb49)
 
-####
+####tabela
+
+use case  | case
+--------- | ------
+classifica| ferramentas
+compara   | opções
+apresenta | ferramentas
+
